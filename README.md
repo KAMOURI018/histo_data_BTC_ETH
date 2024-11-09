@@ -135,4 +135,4 @@ histo_data_BTC_ETH/
 
 ---
 
-This README provides a comprehensive overview of the project, installation and configuration steps, and details on how to use the script. If you encounter any issues or have additional questions, please feel free to reach out!
+
